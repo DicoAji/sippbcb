@@ -1,0 +1,4 @@
+1. carousel koleksi tiidak bisa di geser
+2. submit laporan di swet alert
+3. sorting laporan terbaru
+4. edit gambar lama3 belum bisa (bisa)
